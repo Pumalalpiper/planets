@@ -3,3 +3,7 @@ Added some more text, lines 2 and
 line 3 as well
 some more changes added
 Now the final change in which we think aboiut creating the file venus.txt
+
+
+After some struggle, we add another line...
+
